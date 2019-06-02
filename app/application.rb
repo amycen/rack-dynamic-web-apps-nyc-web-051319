@@ -13,7 +13,7 @@ class Application
     else
       puts "You Lose"
     end
-    
+
     resp.finish
   end
 

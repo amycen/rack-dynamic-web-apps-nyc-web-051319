@@ -11,7 +11,7 @@ class Application
     resp.write "#{num1}\n"
     resp.write "#{num2}\n"
     resp.write "#{num3}\n"
-    
+
     if num1 == num2 && num2 == num_3
       puts "You Win"
     else
